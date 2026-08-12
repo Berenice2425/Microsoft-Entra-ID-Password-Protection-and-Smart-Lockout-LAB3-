@@ -63,6 +63,9 @@ Locate the **Custom smart lockout** settings and configure the following values:
 | **Lockout threshold** |          `5` | Number of failed password attempts allowed before the account is temporarily locked. |
 | **Lockout duration**  | `30` seconds | Amount of time the account remains locked after the threshold is reached.            |
 
+The image below shows a sample that can be editted to reflect the given information
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/230b3b5c-42bc-456f-8b1c-96b41a14f780" />
+
 > **Note:** You can also configure a custom banned password list from this page.
 
 ---
