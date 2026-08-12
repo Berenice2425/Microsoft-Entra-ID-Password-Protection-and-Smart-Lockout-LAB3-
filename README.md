@@ -1,4 +1,4 @@
-# Microsoft Entra ID — Password Protection & Smart Lockout
+# Microsoft Entra ID — Password Protection a3nd Smart Lockout
 
 Explore how **Microsoft Entra ID** helps protect user accounts by enforcing stronger passwords, blocking commonly used or organization-specific passwords, and restricting repeated login attempts to reduce the risk of password attacks.
 
